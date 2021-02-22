@@ -1,7 +1,8 @@
 {
-  "headers":{
-    "/*":{
-      "X-Author": "andreiburda"
+  "headers": {
+    "/*": {
+      "X-Author": "andreiburda",
+      "Access-Control-Allow-Origin": "*"
       }
     }
 }
